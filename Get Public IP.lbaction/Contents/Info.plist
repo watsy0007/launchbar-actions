@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>ip.jpeg</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.watsy0007.get_public_ip</string>
+	<key>CFBundleName</key>
+	<string>Get Public IP</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
+	<key>LBAbbreviation</key>
+	<string>pubip</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>watsy0007</string>
+		<key>LBEmail</key>
+		<string>watsy0007@gmail.com</string>
+		<key>LBSummary</key>
+		<string>get wan ip</string>
+		<key>LBTwitter</key>
+		<string>watsy0007</string>
+		<key>LBWebsiteURL</key>
+		<string>https://github.com/watsy0007/launchbar-actions</string>
+	</dict>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBKeepWindowActive</key>
+			<true/>
+			<key>LBResultType</key>
+			<string>string</string>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>default.sh</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
