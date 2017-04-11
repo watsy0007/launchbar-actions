@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>901-140923102G70-L.png</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.watsy0007.youdaotrans</string>
+	<key>CFBundleName</key>
+	<string>有道翻译</string>
+	<key>CFBundleVersion</key>
+	<string>0.0.1</string>
+	<key>LBAbbreviation</key>
+	<string>yd</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Youdao Translation</string>
+		<key>LBEmail</key>
+		<string>watsy0007@gmail.com</string>
+		<key>LBSummary</key>
+		<string>在线版有道翻译插件</string>
+		<key>LBTwitter</key>
+		<string>watsy0007</string>
+		<key>LBWebsiteURL</key>
+		<string>https://github.com/watsy0007/launchbar-actions</string>
+	</dict>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBAcceptedArgumentTypes</key>
+			<array>
+				<string>string</string>
+			</array>
+			<key>LBKeepWindowActive</key>
+			<true/>
+			<key>LBRequiresArgument</key>
+			<true/>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>default.rb</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
