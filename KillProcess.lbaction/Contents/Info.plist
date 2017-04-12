@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>erase-512.png</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.watsy0007.lbkillprocess</string>
+	<key>CFBundleName</key>
+	<string>Kill Process</string>
+	<key>CFBundleVersion</key>
+	<string>0.1.0</string>
+	<key>LBAbbreviation</key>
+	<string>kill</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Kill Process</string>
+		<key>LBEmail</key>
+		<string>watsy0007@gmail.com</string>
+		<key>LBSummary</key>
+		<string>kill process</string>
+		<key>LBTwitter</key>
+		<string>watsy0007</string>
+		<key>LBWebsiteURL</key>
+		<string>https://github.com/watsy0007/launchbar-actions</string>
+	</dict>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBAcceptedArgumentTypes</key>
+			<array>
+				<string>string</string>
+			</array>
+			<key>LBKeepWindowActive</key>
+			<true/>
+			<key>LBLiveFeedbackEnabled</key>
+			<true/>
+			<key>LBRequiresArgument</key>
+			<true/>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>default.rb</string>
+		</dict>
+	</dict>
+	<key>LBTextInputTitle</key>
+	<string>process name</string>
+</dict>
+</plist>
