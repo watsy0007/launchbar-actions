@@ -9,7 +9,7 @@
 	<key>CFBundleName</key>
 	<string>Public IP</string>
 	<key>CFBundleVersion</key>
-	<string>0.1</string>
+	<string>0.1.0</string>
 	<key>LBAbbreviation</key>
 	<string>pubip</string>
 	<key>LBDescription</key>
@@ -23,7 +23,11 @@
 		<key>LBTwitter</key>
 		<string>watsy0007</string>
 		<key>LBWebsiteURL</key>
-		<string>https://github.com/watsy0007/launchbar-actions/tree/master/Get%20Public%20IP.lbaction</string>
+		<string>https://github.com/watsy0007/launchbar-actions</string>
+		<key>LBUpdateURL</key>
+		<string>https://raw.githubusercontent.com/watsy0007/launchbar-actions/master/PublicIP.lbaction/Contents/Info.plist</string>
+		<key>LBDownloadURL</key>
+		<string></string>
 	</dict>
 	<key>LBScripts</key>
 	<dict>
