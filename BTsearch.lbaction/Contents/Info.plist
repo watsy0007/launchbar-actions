@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>magnet.png</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.watsy0007.lbbtsearch</string>
+	<key>CFBundleName</key>
+	<string>BT search</string>
+	<key>LBAbbreviation</key>
+	<string>p2psearch</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>watsy0007</string>
+		<key>LBEmail</key>
+		<string>watsy0007@gmail.com</string>
+		<key>LBTwitter</key>
+		<string>@watsy0007</string>
+		<key>LBWebsiteURL</key>
+		<string>https://github.com/watsy0007/launchbar-actions/</string>
+	</dict>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBAcceptedArgumentTypes</key>
+			<array>
+				<string>string</string>
+			</array>
+			<key>LBKeepWindowActive</key>
+			<true/>
+			<key>LBRequiresArgument</key>
+			<true/>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>default.rb</string>
+		</dict>
+	</dict>
+	<key>LBTextInputTitle</key>
+	<string>resource name</string>
+</dict>
+</plist>
