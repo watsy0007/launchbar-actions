@@ -18,6 +18,11 @@
 | [BT search][bt] | 磁链搜索 |
 | [tv show][tvshow] | 找美剧 |
 
+## TODO
+
+- 找美剧  
+  - [ ] 直接获取下载链接
+
 
 [pip]:http://7ktoc5.com1.z0.glb.clouddn.com/PublicIP.lbaction.zip
 [ydfy]:http://7ktoc5.com1.z0.glb.clouddn.com/YoudaoTranslation.lbaction.zip
