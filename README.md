@@ -16,9 +16,11 @@
 | [有道翻译][ydfy] | 通过有道api 翻译单词 |
 | [kill process][kp] | 根据进程名杀死进程 |
 | [BT search][bt] | 磁链搜索 |
+| [tv show][tvshow] | 找美剧 |
 
 
 [pip]:http://7ktoc5.com1.z0.glb.clouddn.com/PublicIP.lbaction.zip
 [ydfy]:http://7ktoc5.com1.z0.glb.clouddn.com/YoudaoTranslation.lbaction.zip
 [kp]:http://7ktoc5.com1.z0.glb.clouddn.com/KillProcess.lbaction.zip
 [bt]:http://7ktoc5.com1.z0.glb.clouddn.com/BTsearch.lbaction.zip
+[tvshow]:http://7ktoc5.com1.z0.glb.clouddn.com/AmericanTVShow.lbaction.zip
